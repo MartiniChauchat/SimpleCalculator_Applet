@@ -9,4 +9,4 @@ precision of display.
 Download the whole file, Run it as applet with any chosen IDE. Don't forget to include the external library **acm.jar**
 
 ## Contributor
-+yudi Xie
++ yudi Xie
