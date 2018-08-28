@@ -6,4 +6,7 @@ multiplying, dividing, exponentiation, percentage, and reciprocal.** also includ
 precision of display. 
 
 ## How to use
-Download
+Download the whole file, Run it as applet with any chosen IDE. Don't forget to include the external library **acm.jar**
+
+## Contributor
++yudi Xie
